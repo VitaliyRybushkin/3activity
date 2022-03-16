@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Activitys</string>
+    <string name="act1">Первая Activity</string>
+    <string name="act2">Вторая Activity</string>
+    <string name="act3">Третья Activity</string>
+    <string name="btnClose">Закрыть</string>
+</resources>
